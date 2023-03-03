@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Home {
+public class Homework33 {
 
   // Добавьте ещё один enum, который будет описывать времена года (зима, лето, весна, осень)
   // и укажет, к какому именно времени года относится выбранный месяц.
